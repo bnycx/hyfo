@@ -16,7 +16,7 @@ Development version from github, for experienced users and those who are interes
 ```R
 install.packages("devtools")
 # You can ignore the line above, if you have already installed devtools
-devtools::install_github("Yuanchao-Xu/hyfo")
+devtools::install_github("bnycx/hyfo")
 ```
 
 **Official Website is [https://bnycx.github.io/hyfo/](https://bnycx.github.io/hyfo/)**
