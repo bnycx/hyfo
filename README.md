@@ -19,7 +19,7 @@ install.packages("devtools")
 devtools::install_github("Yuanchao-Xu/hyfo")
 ```
 
-**Official Website is [https://yuanchao-xu.github.io/hyfo/](https://yuanchao-xu.github.io/hyfo/)**
+**Official Website is [https://bnycx.github.io/hyfo/](https://bnycx.github.io/hyfo/)**
 
 hyfo is an R package, initially designed for the European Project EUPORIAS, and cooperated with DHI Denmark, which was then extended to other uses in hydrology, hydraulics and climate.
 
@@ -27,7 +27,7 @@ This package mainly focuses on data process and visulization in hydrology and cl
 
 **If you feel hyfo is of a little help, please cite it as following:**
 
-Xu, Yuanchao(2023). hyfo: Hydrology and Climate Forecasting R Package for Data Analysis and Visualization. Retrieved from http://yuanchao-xu.github.io/hyfo/
+hyfo (2023): Hydrology and Climate Forecasting R Package for Data Analysis and Visualization. Retrieved from http://bnycx.github.io/hyfo/
 
 
 
